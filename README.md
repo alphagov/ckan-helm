@@ -1,3 +1,5 @@
+NOTE - This repo is archived as was part of a discovery
+
 CKAN Helm Chart
 ==========
 
